@@ -1,12 +1,12 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #f5f5f5;
+  background: #A4CFBB;
 }
 
 header {
-  background: #111;
-  color: white;
+  background: #1C2321;
+  color: #A4CFBB;
   padding: 15px 20px;
   display: flex;
   align-items: center;
@@ -20,7 +20,7 @@ header {
 }
 
 nav a {
-  color: white;
+  color: #A4CFBB;
   margin-left: 15px;
   text-decoration: none;
 }
