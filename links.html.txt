@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Links</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo" onclick="goHome()">MyLogo</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="login.html">Login</a>
+    <a href="results.html">Results</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h1>Links Page</h1>
+
+  <div class="card">
+    <a href="https://github.com">GitHub</a>
+  </div>
+
+  <div class="card">
+    <a href="https://supabase.com">Supabase</a>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

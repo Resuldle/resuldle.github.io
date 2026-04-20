@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo" onclick="goHome()">MyLogo</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="links.html">Links</a>
+    <a href="results.html">Results</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h1>Login</h1>
+
+  <div class="card">
+    <input id="user" placeholder="Username"><br>
+    <input id="pass" type="password" placeholder="Password"><br>
+    <button onclick="login()">Login</button>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

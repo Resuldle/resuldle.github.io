@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Home</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo" onclick="goHome()">MyLogo</div>
+  <nav>
+    <a href="links.html">Links</a>
+    <a href="login.html">Login</a>
+    <a href="results.html">Results</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h1>Welcome Home</h1>
+  <div class="card">
+    This is your homepage.
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+  <title>Home</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo" onclick="goHome()">MyLogo</div>
+  <nav>
+    <a href="links.html">Links</a>
+    <a href="login.html">Login</a>
+    <a href="results.html">Results</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h1>Welcome Home</h1>
+  <div class="card">
+    This is your homepage.
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
